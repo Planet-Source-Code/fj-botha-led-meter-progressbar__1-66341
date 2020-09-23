@@ -1,0 +1,12 @@
+[History]
+B0=LEDMeter/UserControl1/UserControl_Initialize
+B1=LEDMeter/UserControl1/UserControl_Resize
+B2=LEDMeter/UserControl1/setDark
+B3=LEDMeter/UserControl1/UserControl_ReadProperties
+B4=LEDMeter/UserControl1/DarkColor
+B5=LEDMeter/UserControl1/LedClick_Click
+B6=LEDMeter/UserControl1/UserControl_WriteProperties
+B7=LEDMeter/UserControl1/LightColor
+B8=LEDMeter/UserControl1/setLight
+B9=LEDMeter/UserControl1/Value
+B10=LEDMeter/UserControl1/LedClick_MouseMove
